@@ -1,5 +1,5 @@
-dkdkd
-dkd
-d
-d
-dkakka
+#include <stdio.h>
+int main()
+{
+ return 0;
+}
